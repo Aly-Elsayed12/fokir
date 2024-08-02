@@ -18,7 +18,7 @@ ul{
   list-style: none;
 }
 .home{
-  background-image: url("/image/hero\ img.jpg");
+  background-image: url(../image/hero\ img.jpg);
   height: 100vh;
   background-repeat: no-repeat;
   background-size: cover;
